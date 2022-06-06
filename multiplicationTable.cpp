@@ -1,3 +1,4 @@
+//Print multiplication table of a number.
 #include <iostream>
 using namespace std;
 
@@ -10,10 +11,9 @@ int main()
 	cout << "Input the number for multiplication table\n";
 	cin >> a;
 	
-	for (int counter=1;counter<=10;counter++)
+	for (int counter=1; counter<=10; counter++)
 	{
-		b = a*counter;
-		cout << b << endl;
+		cout << a << " * " << counter << " = " << a*counter << endl;
 	}
 	
 	return 0;
