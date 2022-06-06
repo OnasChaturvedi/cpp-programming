@@ -1,3 +1,4 @@
+//To find type of triangle based on length of its sides.
 #include <iostream>
 using namespace std;
 
@@ -7,7 +8,7 @@ int main()
 	int a,b,c;
 	
 	cout << "Input the measures of the sides of the triangle\n";
-	cin >>a>>b>>c;
+	cin >> a >> b >> c;
 	
 	if (a==b && b==c)
 	{
