@@ -1,3 +1,4 @@
+//To find whether an alphabet is a vowel or a consonant.
 #include <iostream>
 using namespace std;
 
