@@ -1,3 +1,4 @@
+//Find simple interest with given amount, time and rate of interest.
 #include <iostream>
 using namespace std;
 
