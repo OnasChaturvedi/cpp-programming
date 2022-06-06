@@ -1,3 +1,4 @@
+//Find maximum of three numbers.
 #include <iostream>
 using namespace std;
 
