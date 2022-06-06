@@ -1,3 +1,4 @@
+//Perform various arithmetic operations on two numbers.
 #include <iostream>
 using namespace std;
 
