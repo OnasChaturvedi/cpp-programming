@@ -1,3 +1,4 @@
+//To find sum of all numbers till n.
 #include <iostream>
 using namespace std;
 
