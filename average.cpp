@@ -1,3 +1,4 @@
+//Find average of two integers.
 #include <iostream>
 using namespace std;
 
